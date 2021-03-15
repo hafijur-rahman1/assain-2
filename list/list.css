@@ -1,0 +1,32 @@
+.container{
+    height: 300px;
+    width: 40%;
+    background-color: darkslategray;
+    color: goldenrod;
+    border-radius: 5px;
+    float: right;
+}
+.container-two{
+    height: 300px;
+    width: 40%;
+    background-color: darkslategray;
+    color: goldenrod;
+    border-radius: 5px;
+    float: left;
+    /* padding-right: 5%; */
+}
+body{
+    background-color: tomato;
+    font-family:cursive;
+    font-size: 15px;
+}
+body h4{
+    color: greenyellow;
+    padding-left: 20%;
+    
+}
+li:hover{
+    cursor: pointer;
+    font-size: 150%;
+    color: lightpink;
+}
